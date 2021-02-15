@@ -1,0 +1,19 @@
+{
+    "bg": "#ffffff",
+    "title": "Eleição de Representante de Turma 2021",
+    "description": "Escolha o seu representante",
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#868B8E",
+        "secondary": "#63A15F",
+        "mainBg": "#B9B7BD",
+        "contrastText": "#EEEDE7",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
